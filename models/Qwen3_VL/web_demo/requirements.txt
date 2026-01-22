@@ -1,0 +1,14 @@
+# Web UI Framework
+gradio>=4.0.0
+
+# Model Dependencies
+transformers>=4.37.0
+qwen-vl-utils>=0.0.1
+torch>=2.0.1
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Utilities
+numpy>=1.24.0
